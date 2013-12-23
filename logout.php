@@ -1,5 +1,5 @@
 <?php
-	require 'php-sdk/facebook.php';
+    require 'php-sdk/facebook.php';
     require 'connectvars.inc.php';
     
 	$facebook = new Facebook(array(
